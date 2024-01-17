@@ -1,6 +1,7 @@
 # Tank Dominator
 
 ## The Tank Dominator program is your key to absolute superiority in the World of Tanks game! We offer you unique features that will change your game forever.
+![wot-menu](https://github.com/amx308/TankDominator-WoT/assets/156969613/e6dbf2d3-3bd9-4fe6-8116-3259f89f059b)
 
 ## With Tank Dominator, you can automatically aim at enemies and hit them with incredible accuracy. You no longer need to waste time aiming - our program will do everything for you. You will be an invincible shooter, able to eliminate enemies with one accurate shot.
 
